@@ -1,6 +1,6 @@
 # Social App
 
-## Source code 
+## Source code backend (node, mongodb)
 
 ### To run this project, do the following:
 
