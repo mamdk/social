@@ -22,3 +22,7 @@ cd node-backend
 npm i
 npm start
 ```
+#### This program can have the following:
+##### forget-password
+##### role 
+##### social login (etc.)
