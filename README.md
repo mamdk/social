@@ -1,6 +1,6 @@
-#Social App
+# Social App
 
-## Source code for the Udemy Course
+## Source code 
 
 ### To run this project, do the following:
 
