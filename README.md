@@ -2,7 +2,7 @@
 
 ### To run this project, do the following:
 
-##### create .env with the following code (update credentials). Make sure to create .env in the root directory of the project. nodeapi/.env
+##### create .env with the following code (update credentials). Make sure to create .env in the root directory of the project. node-backend/.env
 
 ```
 APP_NAME=nodeapi
